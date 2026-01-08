@@ -1,7 +1,7 @@
 Hey, I'm Caleb.
 ==============================
 
-PreSales Engineer for Pendo.io and Full Stack Developer for fun.
+PreSales Engineer for Pendo.io and Developer for fun.
 
 ------------------------------
 
