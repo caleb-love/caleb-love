@@ -34,7 +34,7 @@ I operate at the intersection of product, engineering, and go-to-market — owni
 
 **Languages & Web:** JavaScript, TypeScript, HTML, CSS
 
-**Platforms & Analytics:** Pendo, Segment, Google Analytics, Mixpanel
+**Platforms & Analytics:** Pendo, Segment, Google Analytics
 
 **Infrastructure & DevOps:** REST APIs, Webhooks, SSO (SAML/OIDC), Git
 
@@ -49,6 +49,8 @@ I operate at the intersection of product, engineering, and go-to-market — owni
 - Product-led growth and adoption strategies
 - Developer experience and API design
 - AI/ML applications in analytics and SaaS
+- American sports (NFL, NBA, MLB)
+- Music — piano, saxophone, and jazz
 
 ---
 
