@@ -1,59 +1,44 @@
-# Caleb Love
+# Hey, I'm Caleb
 
-**Solutions Engineer** | Sydney, Australia
+Solutions Engineer by day, AI tinkerer by night. Based in Sydney.
 
-Bridging technical depth with business impact. I specialise in product analytics, digital adoption, and enterprise SaaS — translating complex technical architectures into business outcomes and building proof-of-concepts that accelerate sales cycles.
+I spend most of my time figuring out how to make AI actually useful, not the pitch deck version, the "does this hold up when real people use it" version.
+
+---
+
+## What I'm working on
+
+I'm deep in the weeds of agentic AI, not just chatting with models, but building and contributing to systems that run autonomously and do real work.
+
+Right now I'm spending time with:
+
+- **[Dex](https://github.com/davekilleen/dex)** - An open-source personal knowledge system built on Claude. I contribute to the project and use it daily as a testbed for agentic patterns.
+- **[OpenClaw](https://github.com/OpenClaw)** and other autonomous agent harnesses - exploring how different frameworks handle orchestration, tool use, and long-running tasks.
+- **Custom MCP servers and integrations** - connecting AI agents to the tools people actually use (Slack, calendars, CRMs) so they can do more than generate text.
+
+The through-line is making AI more than a fancy autocomplete. Agents that plan, execute, recover from failure, and actually get things done.
+
+---
+
+## What I've learned doing this
+
+- **Clarity of intent matters more than cleverness** - Agents don't read between the lines. If your specification is vague, your output will be too.
+- **Fluent doesn't mean correct** - AI fails confidently. The skill is catching what looks right but isn't, especially at the edges.
+- **Orchestration is a design problem** - Multi-agent systems only work when you size tasks to fit the harness and define clean handoffs between agents.
+- **You have to know the failure modes** - Context degradation, specification drift, silent failures. You learn to recognise these fast once you've been burned.
+- **Context is the real unlock** - Getting the right information in front of the right agent at the right time is what separates a demo from a system.
+- **Not everything needs an agent** - Sometimes a script is the right call. Understanding the economics of what to automate is half the job.
+
+---
+
+## Day Job
+
+Solutions Engineer at [Pendo](https://www.pendo.io). I run technical evaluations, build proof-of-concepts, and help enterprise teams figure out what's actually going to work for them. Less slideware, more working software.
+
+---
+
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caleb--love-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/caleb-love)
-[![Website](https://img.shields.io/badge/Web-caleb--love.com-000?style=flat&logo=safari)](https://caleb-love.com)
+[![Web](https://img.shields.io/badge/Web-caleb--love.com-000?style=flat&logo=safari)](https://caleb-love.com)
 [![Email](https://img.shields.io/badge/Email-hello%40caleb--love.com-EA4335?style=flat&logo=gmail)](mailto:hello@caleb-love.com)
-
----
-
-## About
-
-Solutions Engineer at [Pendo.io](https://www.pendo.io), working across enterprise and commercial accounts to scope, architect, and deliver technical solutions that drive revenue.
-
-I operate at the intersection of product, engineering, and go-to-market — owning the technical win in the sales process from discovery through to post-sale handoff.
-
----
-
-## What I Do
-
-| Area | Description |
-|---|---|
-| **Technical Discovery** | Lead deep-dive sessions with C-level and engineering stakeholders to map requirements, integrations, and success criteria |
-| **Solution Architecture** | Design enterprise-grade solutions addressing scalability, security, compliance, and third-party integration |
-| **POC & Demo Engineering** | Build custom proofs-of-concept and live demos using real customer data to prove business value |
-| **Technical Enablement** | Author integration guides, API documentation, and training materials for customers and internal teams |
-| **Cross-functional Leadership** | Bridge sales, product, and engineering to ensure successful technical wins and seamless onboarding |
-
----
-
-## Tech Stack & Tools
-
-**Languages & Web:** JavaScript, TypeScript, HTML, CSS
-
-**Platforms & Analytics:** Pendo, Segment, Google Analytics
-
-**Infrastructure & DevOps:** REST APIs, Webhooks, SSO (SAML/OIDC), Git
-
-**CRM & GTM:** Salesforce, Gong, Confluence, Jira
-
----
-
-## Interests
-
-- Enterprise software architecture and integration patterns
-- Solutions Engineering best practices and methodology
-- Product-led growth and adoption strategies
-- Developer experience and API design
-- AI/ML applications in analytics and SaaS
-- American sports (NFL, NBA, MLB)
-- Music — piano and saxophone
-
----
-
-## Contact
-
-**Email:** [hello@caleb-love.com](mailto:hello@caleb-love.com) | **LinkedIn:** [linkedin.com/in/caleb-love](https://linkedin.com/in/caleb-love) | **Web:** [caleb-love.com](https://caleb-love.com)
