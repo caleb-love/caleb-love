@@ -12,6 +12,7 @@ I'm deep in the weeds of agentic AI, not just chatting with models, but building
 
 Right now I'm spending time with:
 
+- **[Foxhound](https://github.com/caleb-love/foxhound)** - An open-source observability platform I started for AI agent fleets. It traces, replays, and audits every decision an autonomous agent makes—tool calls, LLM invocations, business outcomes—so when something goes wrong you can actually understand why.
 - **[Dex](https://github.com/davekilleen/dex)** - An open-source personal knowledge system built on Claude. I contribute to the project and use it daily as a testbed for agentic patterns.
 - **[OpenClaw](https://github.com/OpenClaw)** and other autonomous agent harnesses - exploring how different frameworks handle orchestration, tool use, and long-running tasks.
 - **Custom MCP servers and integrations** - connecting AI agents to the tools people actually use (Slack, calendars, CRMs) so they can do more than generate text.
