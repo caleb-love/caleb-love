@@ -19,6 +19,15 @@ By day I'm a Solutions Engineer at [Pendo](https://pendo.io), running technical 
 
 <br>
 
+## Currently
+
+- 🦊 Shipping eval + drift detection for [Foxhound](https://github.com/caleb-love/foxhound)
+- 🧪 Pressure-testing multi-agent orchestration patterns across LangGraph, CrewAI, and Claude Agent SDK
+- 📝 Writing up field notes on what actually breaks when agents go to production
+- 🤝 Open to chats about agent observability, evals, and SE work in AI
+
+<br>
+
 ## Foxhound
 
 > **Compliance-grade observability for AI agent fleets.**
@@ -27,6 +36,8 @@ By day I'm a Solutions Engineer at [Pendo](https://pendo.io), running technical 
 
 <p>
   <a href="https://github.com/caleb-love/foxhound"><img src="https://img.shields.io/badge/GitHub-foxhound-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/caleb-love/foxhound/stargazers"><img src="https://img.shields.io/github/stars/caleb-love/foxhound?style=flat&logo=github&color=FFB800" alt="Stars"></a>
+  <a href="https://github.com/caleb-love/foxhound/commits/main"><img src="https://img.shields.io/github/last-commit/caleb-love/foxhound?style=flat&logo=git&color=success" alt="Last commit"></a>
   <a href="https://github.com/caleb-love/foxhound/blob/main/LICENSE"><img src="https://img.shields.io/github/license/caleb-love/foxhound?style=flat" alt="MIT License"></a>
   <a href="https://foxhound.caleb-love.com"><img src="https://img.shields.io/badge/docs-foxhound.caleb--love.com-blue?style=flat" alt="Docs"></a>
 </p>
@@ -122,3 +133,15 @@ By day I'm a Solutions Engineer at [Pendo](https://pendo.io), running technical 
     </td>
   </tr>
 </table>
+
+<br>
+
+## Let's talk
+
+Always up for a conversation about agent infrastructure, evals, or what enterprise AI actually looks like once the demo is over.
+
+<p>
+  <a href="mailto:hello@caleb-love.com"><img src="https://img.shields.io/badge/Email-hello@caleb--love.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/caleb-love"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://caleb-love.com"><img src="https://img.shields.io/badge/Website-caleb--love.com-000000?style=flat&logo=safari&logoColor=white" alt="Website"></a>
+</p>
